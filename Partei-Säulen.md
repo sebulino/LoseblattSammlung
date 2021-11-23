@@ -39,7 +39,7 @@ Campaigning setzt bei der Zielerreichung vor allem auf das Mobilisieren von Mens
 
 
 ## Politische Willensbildung
-Die Programmatische Arbeit ist der Körper der Partei. Auf Basis identifizierter Missstände oder einer gesellscahftlichen Vision werden die geteilten Werte der Mitglieder in programmatische Forderungen und politische Handlungsempfehlungen übersetzt. 
+Die Programmatische Arbeit ist der Körper der Partei. Auf Basis identifizierter Missstände oder einer gesellschaftlichen Vision werden die geteilten Werte der Mitglieder in programmatische Forderungen und politische Handlungsempfehlungen übersetzt. 
 
 * politischer Gruppen innerhalb der Partei
 * Themenbeauftragungen
