@@ -15,7 +15,6 @@ Punkt 6: Altenparlament  https://cryptpad.piratenpartei.de/pad/#/2/pad/edit/vVk
 
 Punkt 8: Non Profit  [https://cryptpad.piratenpartei.de/pad/#/2/pad/view/ZInuk3FqIDKIn3+uCEqHUWb6BGVwCr7of8Lml5IRLOY/](https://cryptpad.piratenpartei.de/pad/#/2/pad/view/ZInuk3FqIDKIn3+uCEqHUWb6BGVwCr7of8Lml5IRLOY/)  
 
-\=========  
 
 ## 1. Umbau der PolGf Runde als zentraler Ort der Politik  
 
@@ -35,7 +34,6 @@ Auch müssen wir wieder mit einem gewissen Budget dafür sorgen, das Ag und einz
 
 Geplant ist auch eine Vortragsreihe von externen und internen Sachkundigen, die neue Sichtweisen auf eingefahrene Strukturen bieten oder einfach nur Vorträge aus dem großem Spektrum der Politik.    
 
-\========  
 
 ## 2. Politik Team  
 
@@ -63,7 +61,6 @@ Hintergrund: Niemanden interessiert, was wir zu standard-Themen im BT sagen, au�
 
 \- heißt, wenn wir was von uns politisch platzieren wollen, brauchen wir immer eine Aktion dazu, die "reinhaut" -  etwas juristisches, ein Bannerdrop, ein Offener Brief, ein leak, ein Appell, iwas Kreatives, ieine Hilfe die die Piraten für Bürgerinnen oder Verwaltungen anbieten und und und. Abseits davon schaffen wir keine Medienpräsenz, da eigentlich nur die 6 Parteien im BT pressetechnisch wichtig sind.  
 
-\=========  
 
 ## 3. Innerparteiliche Bildung  
 
@@ -92,10 +89,7 @@ Beispiel 2: [https://youtu.be/IZEBBqTyovo](https://youtu.be/IZEBBqTyovo)
 EDIT Anne:  
 
 \- Kompetenzen in der Partei sinnvoller nutzen und bewerben ("hey du bist doch Informatikerin/PoWi/Geschichtswissenschaftlerin/Physikerin/Biologin, willst du nicht mal...")  
-
-  
-
-\==========  
+ 
 
 ## 4. Parteinahe Stiftung  42 e.V.  
 
@@ -137,7 +131,6 @@ Ein weiterer Punkt ist es auszuloten, wo und in welcher Form der Stiftung Gelder
 
 Da sich der Vorfall P-Shop auf keinen Fall wiederholen darf, schlage ich eine Gesellschaftsform für den Verlag vor. Eine GmbH gemeinsam gehalten von den Landesverbänden und der Stiftung.        
 
-\=========  
 
 ## 5. Parteiorgan (Arbeitsname Digital Mirror / Kaperbrief)  
 
@@ -165,7 +158,6 @@ Auch und das ist sehr wichtig, eine Liste der Schulungen/Vorträge die dann expl
 
 \- Es geht ein Angebot an die Flaschenpost (aus Vorgesprächen weiß ich das sie nicht wollen)       
 
-\============  
 
 ## 6. Ein Team aufbauen wie innerhalb der Linken Das Altenparlament ( Arbeitsname Steuerbord)  
 
@@ -181,9 +173,6 @@ Altgediente Menschen der Partei die die Abstimmungsinstrumente in die Hand bekom
 
 Die Instrumente sind der BEO, die Limesurvey Umfrage und einen direkten Kontakt zu den Landesverbänden. Sie sollten Diskussionsrunden veranstalten um Meinungen zu bilden und Pro und Contras zu ermöglichen.  So kann die Meinung der Basis immer mit einfliessen in die Entscheidungen der Vorstände.  
 
-  
-
-\===========  
 
 ## 7. Eine Erneurung der ÖA  
 
@@ -191,9 +180,6 @@ Die Instrumente sind der BEO, die Limesurvey Umfrage und einen direkten Kontakt 
 
 \- da hab ich mich allerdings stark zurückgenommen, da wir am Anfang gesehen haben das Sven und Anne eigene Ideen entwickelt haben und mir so mehr Zeit für die Kampagnenarbeit bleibt.  
 
-  
-
-\=========  
 
 ## 8. Non Profit Unternehmen in der Stiftung installieren  
 
