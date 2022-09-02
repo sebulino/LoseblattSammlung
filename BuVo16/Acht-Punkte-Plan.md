@@ -11,7 +11,9 @@ Punkt 4: Parteinahe Stiftung  [https://cryptpad.piratenpartei.de/pad/#/2/pad/vi
 
 Punkt 5: Parteiorgan  [https://cryptpad.piratenpartei.de/pad/#/2/pad/view/UjDnKWrcxY-QmIxUq96jAuwBN4id02iyivD4FpbTD+0/](https://cryptpad.piratenpartei.de/pad/#/2/pad/view/UjDnKWrcxY-QmIxUq96jAuwBN4id02iyivD4FpbTD+0/)  
 
-Punkt 6: Altenparlament  https://cryptpad.piratenpartei.de/pad/#/2/pad/edit/vVkFer+P3zO7Zm2VABK9cZaW/   Punkt 7: ÖA  [https://cryptpad.piratenpartei.de/pad/#/2/pad/view/HLCo-VIvpQcMgqv-r3XhTHGM9vgDziO8c6-UOlG7Rzs/](https://cryptpad.piratenpartei.de/pad/#/2/pad/view/HLCo-VIvpQcMgqv-r3XhTHGM9vgDziO8c6-UOlG7Rzs/)  
+Punkt 6: Altenparlament  [https://cryptpad.piratenpartei.de/pad/#/2/pad/edit/vVkFer+P3zO7Zm2VABK9cZaW/](https://cryptpad.piratenpartei.de/pad/#/2/pad/edit/vVkFer+P3zO7Zm2VABK9cZaW/) 
+
+Punkt 7: ÖA  [https://cryptpad.piratenpartei.de/pad/#/2/pad/view/HLCo-VIvpQcMgqv-r3XhTHGM9vgDziO8c6-UOlG7Rzs/](https://cryptpad.piratenpartei.de/pad/#/2/pad/view/HLCo-VIvpQcMgqv-r3XhTHGM9vgDziO8c6-UOlG7Rzs/)  
 
 Punkt 8: Non Profit  [https://cryptpad.piratenpartei.de/pad/#/2/pad/view/ZInuk3FqIDKIn3+uCEqHUWb6BGVwCr7of8Lml5IRLOY/](https://cryptpad.piratenpartei.de/pad/#/2/pad/view/ZInuk3FqIDKIn3+uCEqHUWb6BGVwCr7of8Lml5IRLOY/)  
 
