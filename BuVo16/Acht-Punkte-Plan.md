@@ -20,13 +20,10 @@ Punkt 8: Non Profit  [https://cryptpad.piratenpartei.de/pad/#/2/pad/view/ZInuk3
 
 ## 1. Umbau der PolGf Runde als zentraler Ort der Politik  
 
-\- Es werden nur noch wichtige Dinge zugelassen wie Sichtbarkeit (Mandat,Stände, Demos usw.)  
-
-\-Presseartikel und Landesthemen die bewegen und eventuell Bundespolitisch wichtig sind ( zB. Tesla Brandenburg)  
-
-\- die Arbeit mit anderen Parteien und Verbänden/NGO als alle Bündnisse  
-
-\- Am Ende einer jeden Runde sollte es eine Disskusion über das eine oder andere Thema geben.  
+- Es werden nur noch wichtige Dinge zugelassen wie Sichtbarkeit (Mandat,Stände, Demos usw.)  
+- Presseartikel und Landesthemen die bewegen und eventuell Bundespolitisch wichtig sind ( zB. Tesla Brandenburg)  
+- die Arbeit mit anderen Parteien und Verbänden/NGO als alle Bündnisse  
+- Am Ende einer jeden Runde sollte es eine Disskusion über das eine oder andere Thema geben.  
 
 Sollte die Zeit das zu besprechende Pensum sprengen- müssen wir mit Vorlauf auf einen Dicken Engel ausweichen.  
 
@@ -55,13 +52,11 @@ Ebenso lassen sich daraus auch Aktionen, Flyer und Sticker generieren die dann d
 
 EDIT Anne Medienstrategie:  
 
-\- Konzentration auf schlagkräftige PMs, die wirklich "einschlagen"  
-
-\- Sommerloch füllen  
+- Konzentration auf schlagkräftige PMs, die wirklich "einschlagen"  
+- Sommerloch füllen  
 
 Hintergrund: Niemanden interessiert, was wir zu standard-Themen im BT sagen, außer sie sind "unser" Topic oder EU (Patrick)  
-
-\- heißt, wenn wir was von uns politisch platzieren wollen, brauchen wir immer eine Aktion dazu, die "reinhaut" -  etwas juristisches, ein Bannerdrop, ein Offener Brief, ein leak, ein Appell, iwas Kreatives, ieine Hilfe die die Piraten für Bürgerinnen oder Verwaltungen anbieten und und und. Abseits davon schaffen wir keine Medienpräsenz, da eigentlich nur die 6 Parteien im BT pressetechnisch wichtig sind.  
+- heißt, wenn wir was von uns politisch platzieren wollen, brauchen wir immer eine Aktion dazu, die "reinhaut" -  etwas juristisches, ein Bannerdrop, ein Offener Brief, ein leak, ein Appell, iwas Kreatives, ieine Hilfe die die Piraten für Bürgerinnen oder Verwaltungen anbieten und und und. Abseits davon schaffen wir keine Medienpräsenz, da eigentlich nur die 6 Parteien im BT pressetechnisch wichtig sind.  
 
 
 ## 3. Innerparteiliche Bildung  
@@ -84,13 +79,12 @@ Da die Personaldecke wie überall sehr knapp ist, würde ich bei den Videos mit 
 
 Der zweite Vorteil ist, sollte der Akteur nicht mehr der Partei angehören, müssten wir im Zweifel (oder auf Ansage) alle Videos löschen, dass bleibt uns bei der KI erspart.  
 
-Beispiel 1: [https://youtu.be/f5apowHiL1s](https://youtu.be/f5apowHiL1s)  
-
-Beispiel 2: [https://youtu.be/IZEBBqTyovo](https://youtu.be/IZEBBqTyovo)  
+* Beispiel 1: [https://youtu.be/f5apowHiL1s](https://youtu.be/f5apowHiL1s)  
+* Beispiel 2: [https://youtu.be/IZEBBqTyovo](https://youtu.be/IZEBBqTyovo)  
 
 EDIT Anne:  
 
-\- Kompetenzen in der Partei sinnvoller nutzen und bewerben ("hey du bist doch Informatikerin/PoWi/Geschichtswissenschaftlerin/Physikerin/Biologin, willst du nicht mal...")  
+- Kompetenzen in der Partei sinnvoller nutzen und bewerben ("hey du bist doch Informatikerin/PoWi/Geschichtswissenschaftlerin/Physikerin/Biologin, willst du nicht mal...")  
  
 
 ## 4. Parteinahe Stiftung  42 e.V.  
@@ -105,7 +99,7 @@ Des Weiteren ist die Trennung der beiden Organisationen (Partei und Stiftung) so
 
 Meine Vision der Zusammenarbeit gliedert sich in mehrer Abschnitte:  
 
-Teil 1: Aufbau einer Schulungseinheit  
+### Teil 1: Aufbau einer Schulungseinheit  
 
 Im besten Fall sind einige Mitglieder der Partei und einige Mitglieder der Stiftung bereit, sich eines Themas wie etwa Digitalisierung oder BGE anzunehmen und in Form einer Schulung das Thema zu bearbeiten.  
 
@@ -119,7 +113,7 @@ Es ist geplant zwei Schulungen pro Jahr zu veranstalten. Während in den Landesv
 
 Das alles sollte möglichst mit den Sozialen Medien begleitet werden, um damit die Reichweite zu steigern.  
 
-Teil 2: Herstellung der Materialien  
+### Teil 2: Herstellung der Materialien  
 
 Die Materialien werden bei externen Herstellern erstellt, alle Druckerzeugnisse sind aber schon herausgegeben von der Stiftung. Anders als die Partei darf die Stiftung gewinnorientiert arbeiten und die Druckerzeugnisse in einem Shop verkaufen. Damit wird die Grundlage erstellt für einen Online-Shop für Druckerzeugnisse. Alle Gliederungen kaufen ihre Druckerzeugnisse getrennt voneinander, wobei sich keinerlei Kontrolle über Vorlagen und Produkte ergibt.  
 
@@ -158,7 +152,7 @@ Selbst einen europaweiten/weltweiten Bericht über Piratenparteien steht nichts 
 
 Auch und das ist sehr wichtig, eine Liste der Schulungen/Vorträge die dann explizit nochmal beworben werden, um sowohl Parteimitglieder als auch Außenstehende anzulocken.  
 
-\- Es geht ein Angebot an die Flaschenpost (aus Vorgesprächen weiß ich das sie nicht wollen)       
+- Es geht ein Angebot an die Flaschenpost (aus Vorgesprächen weiß ich das sie nicht wollen)       
 
 
 ## 6. Ein Team aufbauen wie innerhalb der Linken Das Altenparlament ( Arbeitsname Steuerbord)  
@@ -178,9 +172,8 @@ Die Instrumente sind der BEO, die Limesurvey Umfrage und einen direkten Kontakt 
 
 ## 7. Eine Erneurung der ÖA  
 
-\- das läuft bereits in Anfängen mit Sven und Anne zusammen  
-
-\- da hab ich mich allerdings stark zurückgenommen, da wir am Anfang gesehen haben das Sven und Anne eigene Ideen entwickelt haben und mir so mehr Zeit für die Kampagnenarbeit bleibt.  
+- das läuft bereits in Anfängen mit Sven und Anne zusammen  
+- da hab ich mich allerdings stark zurückgenommen, da wir am Anfang gesehen haben das Sven und Anne eigene Ideen entwickelt haben und mir so mehr Zeit für die Kampagnenarbeit bleibt.  
 
 
 ## 8. Non Profit Unternehmen in der Stiftung installieren  
